@@ -90,3 +90,12 @@ I'm `Vi`, a Software Engineering graduate from MMU with an interest in developme
   <img src='https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white'/>
   <img src='https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff'/>
 </p>
+
+# A simple overview
+
+<p align='center'>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=too-zestyy&theme=tokyonight'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=too-zestyy&theme=tokyonight'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=too-zestyy&theme=tokyonight'/>
+  <!-- <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=too-zestyy&theme=tokyonight'/> -->
+</p>
