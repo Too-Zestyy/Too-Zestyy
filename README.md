@@ -15,11 +15,11 @@ I'm `Vi`, a Software Engineering graduate from MMU with an interest in developme
 <summary>The last 5️ things I've done, if you're <i>that</i> interested</summary>
   
 <!--START_SECTION:activity-->
-1. Assigned issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
-2. Labeled issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+1.  Assigned issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+2.  Labeled issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
 3. ❗ Opened issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
-4. Assigned issue [#6](https://github.com/FiNALE-PLUS/SenDT/issues/6) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
-5. Labeled issue [#6](https://github.com/FiNALE-PLUS/SenDT/issues/6) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+4.  Assigned issue [#6](https://github.com/FiNALE-PLUS/SenDT/issues/6) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+5.  Labeled issue [#6](https://github.com/FiNALE-PLUS/SenDT/issues/6) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
 <!--END_SECTION:activity-->
 </details>
 
