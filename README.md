@@ -6,6 +6,9 @@ Software Engineering Graduate from MMU,
 <!-- LATESTCOMMIT:START -->
 <!-- LATESTCOMMIT:END -->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## `Tooling`
 <!-- Languages -->
 <ins>Languages</ins>
