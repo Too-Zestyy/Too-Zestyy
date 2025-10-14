@@ -3,6 +3,7 @@
 Software Engineering Graduate from MMU with an interest in development across all platforms.
 
 # What have I been doing?
+
 <!-- LATESTCOMMIT:START -->
 
 [<img width="380px" height="200px" src="https://opengraph.githubassets.com/3db1b9f248a811a4f7c31307bb1c1b94d27b3dc25d910791f7720ddbc4455acc/FiNALE-PLUS/SenDT/commit/5ff5a009cec33da9f50fb93b6b2675eaeb18bb34" />][commitUrl]
@@ -10,8 +11,11 @@ Software Engineering Graduate from MMU with an interest in development across al
 [commitUrl]: https://github.com/FiNALE-PLUS/SenDT/commit/5ff5a009cec33da9f50fb93b6b2675eaeb18bb34
 <!-- LATESTCOMMIT:END -->
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<details>
+  <summary>The last 5 things I've done, if you're <i>that</i> interested</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
 ## `Tooling`
 <!-- Languages -->
