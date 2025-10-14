@@ -1,5 +1,8 @@
 name: Latest commit message made by user
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
