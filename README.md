@@ -1,6 +1,6 @@
 # Welcome!
 
-Software Engineering Graduate from MMU, 
+Software Engineering Graduate from MMU with an interest in development across all platforms.
 
 # What have I been doing?
 <!-- LATESTCOMMIT:START -->
