@@ -64,18 +64,17 @@ I'm `Vi`, a Software Engineering graduate from MMU with an interest in developme
 <!-- Tools -->
 <ins>Tools & Platforms</ins>
 <p>
+  <img src='https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff'/>
+  <img src='https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff'/>
+  <img src='https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff'/>
+  
   <img src='https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white'/>
   <img src='https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white'/>
   <img src='https://img.shields.io/badge/Postman-E0531F.svg?logo=postman&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Figma-a259ff.svg?logo=figma&logoColor=white'/>
   <img src='https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black'/>
   <img src='https://custom-icon-badges.demolab.com/badge/HxD-303030.svg?logo=hxd&logoColor=white'/>
-<!-- </p>
-<p> -->
-  <img src='https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff'/>
-  <img src='https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff'/>
-  <img src='https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff'/>
 </p>
 <p>
   <img src='https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white'/>
