@@ -23,7 +23,7 @@ I'm `Vi`, a Software Engineering graduate from MMU with an interest in developme
 <!--END_SECTION:activity-->
 </details>
 
-## `Tooling`
+# What do I know?
 <!-- Languages -->
 <ins>Languages</ins>
 <p>
