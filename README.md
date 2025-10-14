@@ -79,10 +79,11 @@ I'm `Vi`, a Software Engineering graduate from MMU with an interest in developme
 </p>
 <p>
   <img src='https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white'/>
 </p>
 
 ### <ins>Currently Learning</ins>
