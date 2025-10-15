@@ -15,3 +15,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: estarossa0/readme-last-commit@master
+    env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
