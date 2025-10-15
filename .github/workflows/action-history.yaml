@@ -1,4 +1,4 @@
-name: Latest commit message made by user
+name: Update last 5 actions made on GitHub
 on:
   schedule:
     # Runs every hour
