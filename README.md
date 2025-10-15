@@ -6,9 +6,9 @@ I'm `Vi`, a Software Engineering graduate from MMU with an interest in developme
 ### My last commit 📝
 <!-- LATESTCOMMIT:START -->
 
-[<img width="380px" height="200px" src="https://opengraph.githubassets.com/3db1b9f248a811a4f7c31307bb1c1b94d27b3dc25d910791f7720ddbc4455acc/FiNALE-PLUS/SenDT/commit/5ff5a009cec33da9f50fb93b6b2675eaeb18bb34" />][commitUrl]
+[<img width="380px" height="200px" src="https://opengraph.githubassets.com/6086461591e2939e4311e7d3e04618ea14847d5f60e4944e0b377d7698631006/Too-Zestyy/blazor-webassembly-learning/commit/864bcf3d1e1d9b63dae3a87ccdbef8d059236639" />][commitUrl]
 
-[commitUrl]: https://github.com/FiNALE-PLUS/SenDT/commit/5ff5a009cec33da9f50fb93b6b2675eaeb18bb34
+[commitUrl]: https://github.com/Too-Zestyy/blazor-webassembly-learning/commit/864bcf3d1e1d9b63dae3a87ccdbef8d059236639
 <!-- LATESTCOMMIT:END -->
 
 <details>
