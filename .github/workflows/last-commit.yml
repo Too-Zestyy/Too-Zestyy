@@ -1,13 +1,12 @@
 name: Latest commit message made by user
 on:
+  create:
+  schedule: # execute every 6 hours
+    - cron: "* */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-  create:
-    schedule:
-      # Runs every 6 hours
-      - cron: '* */6 * * *'
-  workflow_dispatch:
 
 jobs:
   update-readme-with-last-commit:
