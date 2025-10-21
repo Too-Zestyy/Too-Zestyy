@@ -1,18 +1,19 @@
 # Welcome! 👋🏽
-I'm `Vi`, a Software Engineering graduate from MMU with an interest in development across all platforms. Currently developing full-stack apps across the growing number of frameworks I've learnt, as well as building tooling for the modding communities I'm most active in.
+I'm `Vi`, a Software Engineering graduate from MMU with an interest in development across all platforms. Currently developing full-stack apps across the growing number of frameworks I've learnt, as well as building tooling for the modding communities I'm most active in. If you want to see some of the things I've done and what I can do, keep reading!
 
 # What have I been doing?
 
-### My last commit 📝
-<!-- LATESTCOMMIT:START -->
+### An overview
 
-[<img width="380px" height="200px" src="https://opengraph.githubassets.com/b67219a1dd304252cec19d39e0b81d6cf048b7d661eb4930383b34a21889d6b9/Too-Zestyy/blazor-webassembly-learning/commit/7ab313006b8b1cba0e633844922b326ab30a3b11" />][commitUrl]
-
-[commitUrl]: https://github.com/Too-Zestyy/blazor-webassembly-learning/commit/7ab313006b8b1cba0e633844922b326ab30a3b11
-<!-- LATESTCOMMIT:END -->
+<p align='center'>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=too-zestyy&theme=tokyonight'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=too-zestyy&theme=tokyonight'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=too-zestyy&theme=tokyonight'/>
+  <!-- <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=too-zestyy&theme=tokyonight'/> -->
+</p>
 
 <details>
-<summary>The last 5️ things I've done, if you're <i>that</i> interested</summary>
+<summary>A few of the last things I've done recently</summary>
   
 <!--START_SECTION:activity-->
 1.  Assigned issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
@@ -89,13 +90,4 @@ I'm `Vi`, a Software Engineering graduate from MMU with an interest in developme
 <p>
   <img src='https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white'/>
   <img src='https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff'/>
-</p>
-
-# A simple overview
-
-<p align='center'>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=too-zestyy&theme=tokyonight'/>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=too-zestyy&theme=tokyonight'/>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=too-zestyy&theme=tokyonight'/>
-  <!-- <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=too-zestyy&theme=tokyonight'/> -->
 </p>
