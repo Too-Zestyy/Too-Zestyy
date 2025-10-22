@@ -1,5 +1,10 @@
 # Welcome! 👋🏽
-I'm `Vi`, a Software Engineering graduate from MMU with an interest in development across all platforms. Currently developing full-stack apps across the growing number of frameworks I've learnt, as well as building tooling for the modding communities I'm most active in. If you want to see some of the things I've done and what I can do, keep reading!
+I'm `Vi`, a Software Engineering graduate from MMU with an interest in development across all platforms. 
+Currently developing full-stack apps across the growing number of frameworks I've learnt, 
+as well as building tooling for the modding communities I'm most active in. 
+I'm always looking for something new I can learn and add to my skill set, especially when it can be applied to a project.
+
+If you want to see some of the things I've done and what I can do, keep reading!
 
 # What have I been doing?
 
