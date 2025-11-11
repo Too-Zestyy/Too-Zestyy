@@ -72,6 +72,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
 <p>
   <img src='https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white'/>
   <img src='https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff'/>
+  <img src='https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white'/>
 </p>
 
 # What have I been doing?
