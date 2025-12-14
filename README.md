@@ -8,7 +8,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
 
 # What do I know?
 <!-- Languages -->
-<ins>Languages</ins>
+### <ins>Languages</ins>
 <p>
   <img src='https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff'/>
   <img src='https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white'/>
@@ -21,22 +21,27 @@ If you want to see some of the things I've done and what I can do, keep reading!
 </p>
 
 <!-- Frameworks -->
-<ins>Frameworks</ins>
+### <ins>Frameworks</ins>
+#### Front-End
 <p>
   <img src='https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB'/>
   <img src='https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB'/>
   <img src='https://custom-icon-badges.demolab.com/badge/React_Native_reanimated-%239970de?logo=react-native-reanimated&logoColor=white'/>
   <img src='https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff'/>
+  <img src='https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff'/>
+  <img src='https://img.shields.io/badge/PySide-%2341cd52.svg?logo=qt&logoColor=white'/>
+</p>
+
+#### Back-End
+<p>
   <img src='https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff'/>
   <img src='https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white'/>
   <img src='https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Iris-%2300ADD8?logo=iris-hero&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff'/>
   <img src='https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white'/>
-  <img src='https://img.shields.io/badge/PySide-%2341cd52.svg?logo=qt&logoColor=white'/>
 </p>
 
-<ins>Databases</ins>
+### <ins>Databases</ins>
 <p>
   <img src='https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white'/>
   <img src='https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff'/>
@@ -45,7 +50,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
 </p>
 
 <!-- Tools -->
-<ins>Tools & Platforms</ins>
+### <ins>Tools & Platforms</ins>
 <p>
   <img src='https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff'/>
   <img src='https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff'/>
@@ -73,6 +78,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white'/>
   <img src='https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff'/>
   <img src='https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white'/>
+  <img src='https://custom-icon-badges.demolab.com/badge/Textual-%2314151A?logo=textual&logoColor=white'/>
 </p>
 
 # What have I been doing?
