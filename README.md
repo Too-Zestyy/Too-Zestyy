@@ -81,6 +81,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Textual-%2314151A?logo=textual&logoColor=white'/>
   <img src='https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white'/>
+  <img src='https://custom-icon-badges.demolab.com/badge/Ratatui-%230F172B?logo=ratatui&logoColor=white'/>
 </p>
 
 # What have I been doing?
