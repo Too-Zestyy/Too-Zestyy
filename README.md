@@ -26,6 +26,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
 <p>
   <img src='https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB'/>
   <img src='https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB'/>
+  <img src='https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff'/>
   <img src='https://custom-icon-badges.demolab.com/badge/React_Native_reanimated-%239970de?logo=react-native-reanimated&logoColor=white'/>
   <img src='https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff'/>
   <img src='https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff'/>
@@ -34,7 +35,6 @@ If you want to see some of the things I've done and what I can do, keep reading!
 
 #### Back-End
 <p>
-  <img src='https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff'/>
   <img src='https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white'/>
   <img src='https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Iris-%2300ADD8?logo=iris-hero&logoColor=white'/>
