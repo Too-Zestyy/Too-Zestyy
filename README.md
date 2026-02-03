@@ -86,6 +86,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://img.shields.io/badge/Embassy-HAL-%23000000.svg?logoColor=white'/>
   <img src='https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Twig-71b236?logo=twig&logoColor=white'/>
+  <img src='https://custom-icon-badges.demolab.com/badge/Slim-729544?logo=php-slim-white&logoColor=white'/>
 </p>
 
 # What have I been doing?
