@@ -19,6 +19,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff'/>
   <img src='https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff'/>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000'/>
+  <img src='https://img.shields.io/badge/Rust-df7a4c?e&logo=rust&logoColor=white'/>
 </p>
 
 <!-- Frameworks -->
@@ -81,12 +82,14 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff'/>
   <img src='https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Textual-%2314151A?logo=textual&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Ratatui-%230F172B?logo=ratatui&logoColor=white'/>
   <img src='https://img.shields.io/badge/Embassy-HAL-%23000000.svg?logoColor=white'/>
   <img src='https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Twig-71b236?logo=twig&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Slim-729544?logo=php-slim-white&logoColor=white'/>
+
+  <img src='https://custom-icon-badges.demolab.com/badge/Tokio-ffffff?logo=tokio&logoColor=black'/>
+  <img src='https://custom-icon-badges.demolab.com/badge/Axum-df7a4c?logo=axum&logoColor=white'/>
 </p>
 
 # What have I been doing?
