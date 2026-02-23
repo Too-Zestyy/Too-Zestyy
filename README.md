@@ -105,8 +105,8 @@ If you want to see some of the things I've done and what I can do, keep reading!
 <summary>A few of the last things I've done recently!</summary>
   
 <!--START_SECTION:activity-->
-1.  Assigned issue [#1](https://github.com/Too-Zestyy/blazor-webassembly-learning/issues/1) in [Too-Zestyy/blazor-webassembly-learning](https://github.com/Too-Zestyy/blazor-webassembly-learning)
-2.  Labeled issue [#1](https://github.com/Too-Zestyy/blazor-webassembly-learning/issues/1) in [Too-Zestyy/blazor-webassembly-learning](https://github.com/Too-Zestyy/blazor-webassembly-learning)
+1. 🗣 Commented on [#6](https://github.com/FiNALE-PLUS/SenDT/issues/6#issuecomment-3944212962) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+2. 🔒 Closed issue [#6](https://github.com/FiNALE-PLUS/SenDT/issues/6) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
 3. ❗ Opened issue [#1](https://github.com/Too-Zestyy/blazor-webassembly-learning/issues/1) in [Too-Zestyy/blazor-webassembly-learning](https://github.com/Too-Zestyy/blazor-webassembly-learning)
 4.  Assigned issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
 5.  Labeled issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
