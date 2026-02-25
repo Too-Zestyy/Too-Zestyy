@@ -105,10 +105,10 @@ If you want to see some of the things I've done and what I can do, keep reading!
 <summary>A few of the last things I've done recently!</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7#issuecomment-3956431600) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
-2. 🔒 Closed issue [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
-3. 🔒 Closed issue [#2](https://github.com/FiNALE-PLUS/SenDT/issues/2) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
-4. 🗣 Commented on [#2](https://github.com/FiNALE-PLUS/SenDT/issues/2#issuecomment-3956430510) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
-5. ℹ️ Labeled issue [#9](https://github.com/FiNALE-PLUS/SenDT/issues/9) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+1. ℹ️ Labeled issue [#11](https://github.com/FiNALE-PLUS/SenDT/issues/11) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+2. ℹ️ Labeled issue [#11](https://github.com/FiNALE-PLUS/SenDT/issues/11) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+3. ❗ Opened issue [#11](https://github.com/FiNALE-PLUS/SenDT/issues/11) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+4. ℹ️ Assigned issue [#11](https://github.com/FiNALE-PLUS/SenDT/issues/11) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+5. 🗣 Commented on [#7](https://github.com/FiNALE-PLUS/SenDT/issues/7#issuecomment-3956431600) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
 <!--END_SECTION:activity-->
 </details>
