@@ -102,7 +102,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
 </p>
 
 <details>
-<summary>A few of the last things I've done recently!</summary>
+<summary>A few of the last issues I've interacted with recently!</summary>
   
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#11](https://github.com/FiNALE-PLUS/SenDT/issues/11) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
