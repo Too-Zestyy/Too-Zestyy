@@ -42,6 +42,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://custom-icon-badges.demolab.com/badge/Iris-%2300ADD8?logo=iris-hero&logoColor=white'/>
   <img src='https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white'/>
   <img src='https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white'/>
+  <img src='https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB'/>
 </p>
 
 ### <ins>Databases</ins>
