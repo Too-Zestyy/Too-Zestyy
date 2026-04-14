@@ -91,6 +91,8 @@ If you want to see some of the things I've done and what I can do, keep reading!
 
   <img src='https://custom-icon-badges.demolab.com/badge/Tokio-ffffff?logo=tokio&logoColor=black'/>
   <img src='https://custom-icon-badges.demolab.com/badge/Axum-df7a4c?logo=axum&logoColor=white'/>
+
+  <img src='https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white'/>
 </p>
 
 # What have I been doing?
