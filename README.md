@@ -62,6 +62,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff'/>
   
   <img src='https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?logo=Arduino&logoColor=white'/>
   <img src='https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white'/>
   <img src='https://img.shields.io/badge/Postman-E0531F.svg?logo=postman&logoColor=white'/>
   <img src='https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647'/>
@@ -93,6 +94,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://custom-icon-badges.demolab.com/badge/Axum-df7a4c?logo=axum&logoColor=white'/>
 
   <img src='https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white'/>
+  <img src='https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white'/>
 </p>
 
 # What have I been doing?
