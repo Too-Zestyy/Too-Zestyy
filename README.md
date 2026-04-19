@@ -95,6 +95,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
 
   <img src='https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white'/>
   <img src='https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white'/>
+  <img src='https://img.shields.io/badge/perl-%2339457E.svg?logo=perl&logoColor=white'/>
 </p>
 
 # What have I been doing?
