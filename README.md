@@ -111,7 +111,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
 <summary>A few of the last issues I've interacted with recently!</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#12](https://github.com/FiNALE-PLUS/SenDT/issues/12) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
+1. 🗣 Commented on [#13](https://github.com/FiNALE-ReMASTER/SenDT/pull/13#issuecomment-4579446596) in [FiNALE-ReMASTER/SenDT](https://github.com/FiNALE-ReMASTER/SenDT)
 2. ❗ Opened issue [#12](https://github.com/FiNALE-PLUS/SenDT/issues/12) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
 3. ℹ️ Assigned issue [#12](https://github.com/FiNALE-PLUS/SenDT/issues/12) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
 4. ℹ️ Labeled issue [#11](https://github.com/FiNALE-PLUS/SenDT/issues/11) in [FiNALE-PLUS/SenDT](https://github.com/FiNALE-PLUS/SenDT)
