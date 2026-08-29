@@ -14,6 +14,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white'/>
   <img src='https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white'/>
   <img src='https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white'/>
+  <img src='https://img.shields.io/badge/F%23-239120?logo=fsharp&logoColor=white&color=%23368ab9'/>
   <img src='https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff'/>
   <img src='https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff'/>
