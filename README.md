@@ -34,6 +34,7 @@ If you want to see some of the things I've done and what I can do, keep reading!
   <img src='https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff'/>
   <img src='https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff'/>
   <img src='https://img.shields.io/badge/PySide-%2341cd52.svg?logo=qt&logoColor=white'/>
+  <img src='https://img.shields.io/badge/blazor-%235C2D91.svg?logo=blazor&logoColor=white'/>
 </p>
 
 #### Back-End
